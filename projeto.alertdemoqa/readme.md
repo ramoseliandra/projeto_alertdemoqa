@@ -25,7 +25,7 @@ Siga os passos abaixo para instalar e executar os testes:
 
 2.Navegue até a raiz do projeto e execute o comando
 
-mvn test -Dtest=ModalTest
+ mvn test -Dtest=AlertsTest
 
 #Relatório de testes 
 Após a execução dos testes de automação, você pode acessar o relatório gerado com informações sobre os testes.
